@@ -81,7 +81,9 @@ Install using the specified DB params.
 drush site-install --db-url=mysql://root:pass@localhost:port/dbname
 
 drush si -y --db-url=mysql://root:root@mariadb:3306/shopwiz
-	5.	commerce_kickstart-7.x-2.45-core.tar.gz
+commerce_kickstart-7.x-2.37-core.tar.gz
+drush si commerce_kickstart --site-name=“shopwiz.net” -v -y  --db-url=mysql://root:root@mariadb/shopwiz
+	
 	
 $ drush make d7_i18n.make /var/www/drupal_test.local
 
