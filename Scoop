@@ -19,6 +19,7 @@ Download FTP
 Wget - ftp - user = Casi - ftp - password = Mir URL
 Resume an interrupted download
 Wget --continue URL
+
 One command, multiple files (in end-to-end mode)
 Wget URL1 URL2 ... URLn
 One command, multiple files (in playlist mode)
@@ -424,17 +425,9 @@ We will see the following:
 
 $
 Public DNS: ec2-54-229-61-101.eu-west-1.compute.amazonaws.com
-^qBP(sA0OlJp
+
 Public DNS: ec2-54-229-28-221.eu-west-1.compute.amazonaws.com
-seven24.biz @8.8.8.8
-54.77.82.146
-
-canvas.css
-
-
-AKIAIMA2PXP7IQOXN23Q
-
-Dywunva/uU+ihiAikXcVXHJf/A17Sz8f6pt2xtkF   secret
+ @8.8.8.8
 
 shopwiz   s3 buket name eu west 1 ireland
 ======================================
